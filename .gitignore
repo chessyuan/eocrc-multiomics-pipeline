@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment & IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large data and raw files
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.h5
+*.h5ad
+*.rds
+*.RData
+
+# Temporary build artifacts
+build/
+dist/
+*.egg-info/

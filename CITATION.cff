@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this codebase or analytical pipeline, please cite it as below."
+authors:
+  - family-names: "Liu"
+    given-names: "Qiyuan"
+    orcid: "https://orcid.org/[researcher identifier redacted]"
+    affiliation: "the academic department, the institution, [location redacted]"
+title: "Computational Pipeline for Multi-Cohort Metagenomic and Metabolomic Analysis in Early-Onset Colorectal Cancer"
+version: 1.0.0
+date-released: 2026-09-27
+license: MIT
+url: "https://github.com/chessyuan/eocrc-multiomics-pipeline"
