@@ -2,7 +2,7 @@
 """
 Master Reproducible Execution Pipeline for EOCRC Multi-Omics Analysis
 Nature Communications Code Archive Deliverable
-Author: chessyuan (the academic department, the institution)
+
 """
 
 import sys
@@ -10,7 +10,7 @@ import subprocess
 import os
 
 print("=== Starting EOCRC Multi-Omics Replication & Audit Pipeline ===")
-print("Author: chessyuan (the institution)")
+print("Maintainer: Repository maintainer")
 print("Target: Nature Communications (Article)")
 
 steps = [

@@ -1,6 +1,6 @@
 # Public Code Repository & Zenodo Archival Instructions
 
-**Author:** chessyuan  
+**Maintainer:** Repository maintainer
 **Project:** EOCRC Multi-Omics Independent Pipeline  
 **Date:** September 27, 2026  
 

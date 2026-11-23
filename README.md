@@ -3,10 +3,7 @@
 This repository contains the complete custom analysis codebase and verification pipeline for the study:  
 **"Age-by-Disease Interaction Reveals Conserved Taxonomic but Divergent Functional Gut Microbiome Features in Early-Onset Colorectal Cancer"**
 
-- **Author:** chessyuan (chessyuan)  
-- **Affiliation:** the academic department, the institution, [location redacted]  
-- **Contact:** [redacted] | [redacted]  
-- **ORCID:** [[researcher identifier redacted]](https://orcid.org/[researcher identifier redacted])  
+- **Questions and reproducibility issues:** Please open a GitHub issue.
 - **Target Journal:** *Nature Communications* (Article)  
 - **License:** MIT Open Source License
 - **Repository:** https://github.com/chessyuan/eocrc-multiomics-pipeline  
